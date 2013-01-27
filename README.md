@@ -16,7 +16,8 @@ If you want me to add any other comment elements, you can either:
 * checkout the code, modify sanity.css, and submit a pull request so everyone can have fun with it.
 
 
-Version 1.0 (27/01/2013)
+###Version 1.0 (27/01/2013)
+
 First release supports (and by that I mean "silences"):
 
 * Youtube
