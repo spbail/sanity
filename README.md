@@ -3,7 +3,7 @@
 ## [Download the packed Chrome extension here!](https://bitbucket.org/spbail/sanity/src/d8cd1cc3105c6147407b0a4faa101c9a8189668e/src.crx?at=master)
 
 ## To install:
-* Download the crx file
+* Download the crx file (right click - save as, otherwise Chrome will try and install it)
 * Open the [Chrome Extensions page](chrome://extensions/)
 * Drag and drop the crx file onto the extensions page
 * That'll do, pig... that'll do.
