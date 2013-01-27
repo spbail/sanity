@@ -2,6 +2,12 @@
 
 ## [Download the packed Chrome extension here!](https://bitbucket.org/spbail/sanity/src/d8cd1cc3105c6147407b0a4faa101c9a8189668e/src.crx?at=master)
 
+## To install:
+* Download the crx file
+* Open the [Chrome Extensions page](chrome://extensions/)
+* Drag and drop the crx file onto the extensions page
+* That'll do, pig... that'll do.
+
 ## Hey dudes and dudettes,
 
 we all know the internet is a bit of a weird place. In order to keep your sanity, there's just one rule: Do *NOT* read the comments. Under no circumstances.
