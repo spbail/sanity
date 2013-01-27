@@ -18,10 +18,3 @@ div#pluck-wrap, .pluck-comm-wrapper {
 	display: none;
 	visibility: hidden;
 }
-
-/* guardian */
-
-div.d2-comments, .d2-comment, ul.d2-comments {
-	display: none;
-	visibility: hidden;	
-}
