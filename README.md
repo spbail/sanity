@@ -1,6 +1,6 @@
 # Sanity README
 
-## [Download the packed Chrome extension here!][https://bitbucket.org/spbail/sanity/src/d8cd1cc3105c6147407b0a4faa101c9a8189668e/src.crx?at=master] 
+## [Download the packed Chrome extension here!](https://bitbucket.org/spbail/sanity/src/d8cd1cc3105c6147407b0a4faa101c9a8189668e/src.crx?at=master)
 
 ## Hey dudes and dudettes,
 
