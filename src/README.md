@@ -1,5 +1,13 @@
 # Sanity README
 
+## [Download the packed Chrome extension here!](https://bitbucket.org/spbail/sanity/src/d8cd1cc3105c6147407b0a4faa101c9a8189668e/src.crx?at=master)
+
+## To install:
+* Download the crx file (right click - save as, otherwise Chrome will try and install it)
+* Open the [Chrome Extensions page](chrome://extensions/)
+* Drag and drop the crx file onto the extensions page
+* That'll do, pig... that'll do.
+
 ## Hey dudes and dudettes,
 
 we all know the internet is a bit of a weird place. In order to keep your sanity, there's just one rule: Do *NOT* read the comments. Under no circumstances.
@@ -15,7 +23,10 @@ If you want me to add any other comment elements, you can either:
 * checkout the code and modify sanity.css for yourself, then load the unpacked extension into Chrome (the internet knows how to do that)
 * checkout the code, modify sanity.css, and submit a pull request so everyone can have fun with it.
 
+Lifesafer icon by [rockettheme.com](http://www.rockettheme.com/) used under CC Attribution-No Derivative 3.0 license.
+
 ###Version 1.1 (08/02/2013)
+
 * added Kotaku comments. Phew.
 
 ###Version 1.0 (27/01/2013)
