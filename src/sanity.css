@@ -25,3 +25,7 @@ div.d2-comments, .d2-comment, ul.d2-comments {
 	display: none;
 	visibility: hidden;	
 }
+
+div#comments  {
+	display:none;
+}
