@@ -15,6 +15,8 @@ If you want me to add any other comment elements, you can either:
 * checkout the code and modify sanity.css for yourself, then load the unpacked extension into Chrome (the internet knows how to do that)
 * checkout the code, modify sanity.css, and submit a pull request so everyone can have fun with it.
 
+###Version 1.1 (08/02/2013)
+* added Kotaku comments. Phew.
 
 ###Version 1.0 (27/01/2013)
 
