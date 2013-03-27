@@ -2,30 +2,33 @@
 /* youtube */
 div#comments-view {
 	display: none;
-	visibility: hidden;
 }
 
 
 /* daily mail */
 div#reader-comments, .article-reader-comments {
 	display: none;
-	visibility: hidden;
 }
 
 
 /* MEN */
 div#pluck-wrap, .pluck-comm-wrapper {
 	display: none;
-	visibility: hidden;
 }
 
 /* guardian */
 
 div.d2-comments, .d2-comment, ul.d2-comments {
 	display: none;
-	visibility: hidden;	
 }
 
+/* WP, Gawker, basically everything else on the internet */
 div#comments  {
+	display:none;
+}
+
+/* DISQUS */
+
+div#disqus_thread {
 	display:none;
 }
