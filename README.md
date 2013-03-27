@@ -20,9 +20,14 @@ If you want me to add any other comment elements, you can either:
 
 Lifesafer icon by [rockettheme.com](http://www.rockettheme.com/) used under CC Attribution-No Derivative 3.0 license.
 
-###Version 1.1 (08/02/2013)
+###Version 1.1 (27/03/2013)
+
+* added disqus comments
+
+###Version 1.05 (08/02/2013)
 
 * added Kotaku comments. Phew.
+* edit: turns out this updated silences half the internet.
 
 ###Version 1.0 (27/01/2013)
 
