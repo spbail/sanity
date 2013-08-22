@@ -22,7 +22,7 @@ div.d2-comments, .d2-comment, ul.d2-comments {
 	display: none;
 }
 
-/* WP, Gawker, basically everything else on the internet */
+/* WP, Gawker, probably everything else on the internet */
 div#comments  {
 	display:none;
 }
@@ -32,3 +32,9 @@ div#comments  {
 div#disqus_thread {
 	display:none;
 }
+
+/* huff post and probably many others */
+div.comments {
+	display:none;
+}
+

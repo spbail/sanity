@@ -20,6 +20,10 @@ If you want me to add any other comment elements, you can either:
 
 Lifesafer icon by [rockettheme.com](http://www.rockettheme.com/) used under CC Attribution-No Derivative 3.0 license.
 
+###Version 1.2 (21/08/2013)
+
+* made HuffPost comments disappear. Like magic.
+
 ###Version 1.1 (27/03/2013)
 
 * added disqus comments
