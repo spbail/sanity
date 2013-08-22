@@ -34,7 +34,7 @@ div#disqus_thread {
 }
 
 /* huff post and probably many others */
-div.comments {
+div.comments, div#conversations-huffpost-web {
 	display:none;
 }
 
