@@ -1,4 +1,3 @@
-
 /* youtube */
 div#comments-view {
 	display: none;
@@ -18,7 +17,7 @@ div#pluck-wrap, .pluck-comm-wrapper {
 
 /* guardian */
 
-div.d2-comments, .d2-comment, ul.d2-comments {
+#d2-root, div.d2-comments, .d2-comment, ul.d2-comments {
 	display: none;
 }
 
