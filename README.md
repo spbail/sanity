@@ -20,6 +20,10 @@ If you want me to add any other comment elements, you can either:
 
 Lifesafer icon by [rockettheme.com](http://www.rockettheme.com/) used under CC Attribution-No Derivative 3.0 license.
 
+###Version 1.30 (03/09/2013)
+
+* added selector for Guardian (thanks Ben Nuttall for the pull request)
+
 ###Version 1.25 (21/08/2013)
 
 * made HuffPost comments disappear. Like magic.
